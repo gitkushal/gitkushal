@@ -7,7 +7,7 @@
 
 - 🤝I’m actively exploring **AI, backend development, and real-world projects.**
 
-- 👨‍💻 I Regularly **Practice & Compete on LeetCode (300+ problems solved), HackerRank (4⭐ in C/C++), and coding challenges to sharpen my skills.**
+- 👨‍💻 I Regularly **Practice & Compete on LeetCode (350+ problems solved), HackerRank (4⭐ in C/C++), and coding challenges to sharpen my skills.**
 
 - ⚡ Fun fact **I’m also part of a fashion society where I’ve led major events — creativity meets tech in my journey!**
 
